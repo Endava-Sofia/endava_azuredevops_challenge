@@ -25,7 +25,9 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
 
   2.	Pipeline should have at least two stages. Dev > QA > PROD.
   3.	Present working solution by giving us an access to your Azure/Azure DevOps environment. (You can try using vm instances or App Servis, sql instances and so on.)
+  
 Additional tasks:
+
   1.	Implement service monitoring either using free Cloud Service provider monitoring or Datadog, Zabbix, Nagios, etc.
   2.	Implement simple automation and manual tests in Azure.
   3.	Try to commit all the tasks in your own Git repo with the solution you’ll use.
