@@ -3,6 +3,8 @@
 # Prerequisites: 
 Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or server 2019).
 
+# To do:
+
   1.	Build Azure DevOps pipeline and deploy it on the Azure using a free subscription.
 
   a.	Use a project you trust or you are familiar with from any Git repository you want to.
