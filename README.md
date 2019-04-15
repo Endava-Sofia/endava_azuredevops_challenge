@@ -20,7 +20,7 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
             task:
             
 
-    c. Use MSBuld or any other build solution like CakeBuild(or similar) to buld the code to “Release”.
+   c.  Use MSBuld or any other build solution like CakeBuild(or similar) to buld the code to “Release”.
 
   2.	Pipeline should have at least two stages. Dev > QA > PROD.
   3.	Present working solution by giving us an access to your Azure/Azure DevOps environment. (You can try using vm instances or App Servis, sql instances and so on.)
