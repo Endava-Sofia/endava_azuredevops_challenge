@@ -6,7 +6,8 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
 
   a.	Use a project you trust or you are familiar with from any Git repository you want to.
     i.	Examples: (https://github.com/HoussemDellai/WebAppWithDatabaseDemo ). Note: You have to be familiar with the source code that you are using.
-    b.	Present the pipeline in YML:
+    
+   b.	Present the pipeline in YML:
         i.	
 
             trigger:
