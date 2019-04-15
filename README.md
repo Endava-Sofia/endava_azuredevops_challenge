@@ -7,10 +7,10 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
 # To do:
 1.	Build Azure DevOps pipeline and deploy it on the Azure using a free subscription.
 
-  a.	Use a project you trust or you are familiar with from any Git repository you want to.
+  *	Use a project you trust or you are familiar with from any Git repository you want to.
         Examples: (https://github.com/HoussemDellai/WebAppWithDatabaseDemo ). Note: You have to be familiar with the source code that you are using.
     
-  b.	Present the pipeline in YML:
+  *	Present the pipeline in YML:
        
 
             trigger:
@@ -24,7 +24,7 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
             task:
             
 
-  c.  Use MSBuld or any other build solution like CakeBuild(or similar) to buld the code to “Release”.
+  *  Use MSBuld or any other build solution like CakeBuild(or similar) to buld the code to “Release”.
 
 2.	Pipeline should have at least two stages. (Example: Dev > QA > PROD.)
 3.	Present working solution by giving us an access to your Azure/Azure DevOps environment. (You can try using VM instances or App Services, SQL instances and so on.)
