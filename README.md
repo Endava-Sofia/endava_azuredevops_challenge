@@ -32,5 +32,5 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
 # Additional tasks:
 
 1.	Implement service monitoring either using free Cloud Service provider monitoring or Datadog, Zabbix, Nagios, etc.
-2.	Implement simple automation and manual tests in Azure.
+2.	Implement simple automation and/or manual tests in Azure DevOps.
 3.	Try to commit all the tasks in your own Git repo with the solution you’ll use.
