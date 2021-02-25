@@ -8,7 +8,7 @@ Create a Microsoft account and subscribe yourself to Azure/Azure DevOps(or serve
 1.	Build Azure DevOps pipeline and deploy it on the Azure using a free subscription.
 
     *	Use a project you trust or you are familiar with from any Git repository you want to.
-          Examples: (https://github.com/HoussemDellai/WebAppWithDatabaseDemo ). Note: You have to be familiar with the source code that you are using.
+          Examples: (https://github.com/HoussemDellai/WebAppWithDatabaseDemo ). Note: Use project with database! Publish artifacts to AZ DevOps repository.
 
     *	Present the pipeline in YML:
 
